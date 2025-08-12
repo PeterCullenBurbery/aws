@@ -35,3 +35,6 @@ project.nuget.cache
 # Optional: OS-specific
 .DS_Store
 Thumbs.db
+
+# Backups
+**/Backup/
