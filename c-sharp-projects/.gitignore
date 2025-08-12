@@ -38,3 +38,6 @@ Thumbs.db
 
 # Backups
 **/Backup/
+
+# Visual Studio upgrade logs
+**/UpgradeLog*.htm
