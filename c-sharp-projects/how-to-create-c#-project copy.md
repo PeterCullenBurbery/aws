@@ -32,3 +32,5 @@ list solution projects
 ```
 dotnet sln list
 ```
+
+mkdir Time_zones_solution && cd Time_zones_solution
