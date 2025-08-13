@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello_world_top_level", "He
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "focus_with_fucking_function", "focus_with_fucking_function\focus_with_fucking_function.csproj", "{D87FB01D-1C5E-404A-BE89-A338FC4C085F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "time", "time\time.csproj", "{F4AB1654-C9EB-4550-AC37-5F3917E58CF3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,18 @@ Global
 		{D87FB01D-1C5E-404A-BE89-A338FC4C085F}.Release|x64.Build.0 = Release|Any CPU
 		{D87FB01D-1C5E-404A-BE89-A338FC4C085F}.Release|x86.ActiveCfg = Release|Any CPU
 		{D87FB01D-1C5E-404A-BE89-A338FC4C085F}.Release|x86.Build.0 = Release|Any CPU
+		{F4AB1654-C9EB-4550-AC37-5F3917E58CF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4AB1654-C9EB-4550-AC37-5F3917E58CF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4AB1654-C9EB-4550-AC37-5F3917E58CF3}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F4AB1654-C9EB-4550-AC37-5F3917E58CF3}.Debug|x64.Build.0 = Debug|Any CPU
+		{F4AB1654-C9EB-4550-AC37-5F3917E58CF3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F4AB1654-C9EB-4550-AC37-5F3917E58CF3}.Debug|x86.Build.0 = Debug|Any CPU
+		{F4AB1654-C9EB-4550-AC37-5F3917E58CF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4AB1654-C9EB-4550-AC37-5F3917E58CF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4AB1654-C9EB-4550-AC37-5F3917E58CF3}.Release|x64.ActiveCfg = Release|Any CPU
+		{F4AB1654-C9EB-4550-AC37-5F3917E58CF3}.Release|x64.Build.0 = Release|Any CPU
+		{F4AB1654-C9EB-4550-AC37-5F3917E58CF3}.Release|x86.ActiveCfg = Release|Any CPU
+		{F4AB1654-C9EB-4550-AC37-5F3917E58CF3}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

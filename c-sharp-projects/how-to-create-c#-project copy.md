@@ -13,6 +13,8 @@ dotnet new console -n Hello_world_not_top_level --use-program-main
 
 dotnet new console -n focus_with_fucking_function --use-program-main
 
+dotnet new console -n time --use-program-main
+
 add to solution
 
 ```
